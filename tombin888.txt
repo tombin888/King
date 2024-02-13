@@ -372,7 +372,7 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上虞影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 石首综合,http://p8.vzan.com/slowlive/798787236084269922/live.m3u8
 
-🇨🇳地方频道·IPV6,#genre#
+🇨🇳地方频道,#genre#
 「江苏」南京新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 「江苏」南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
