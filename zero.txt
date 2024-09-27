@@ -1,4 +1,4 @@
-🇨🇳云南线路①,#genre#
+🇨🇳云南①,#genre#
 CCTV-1,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225835/1.m3u8$华为
 CCTV-1,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225965/1.m3u8$华为
 CCTV-2,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225833/1.m3u8$华为
@@ -33,7 +33,7 @@ CGTN-西班牙语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/
 CGTN-阿拉伯语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8$4.0M_576
 CGTN-英语,http://114.252.227.154:8000/rtp/239.3.1.215:4220
 CGTN-西班牙语,http://114.252.227.154:8000/rtp/239.3.1.217:4220
-CGT-N法语,http://114.252.227.154:8000/rtp/239.3.1.218:4220
+CGTN-法语,http://114.252.227.154:8000/rtp/239.3.1.218:4220
 CGTN-阿拉伯语,http://114.252.227.154:8000/rtp/239.3.1.219:4220
 CGTN-俄语,http://114.252.227.154:8000/rtp/239.3.1.220:4220
 云南卫视,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225821/1.m3u8$华为
@@ -228,7 +228,7 @@ Bestv-8,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225959/1.m3u8$华�
 Bestv-9,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225961/1.m3u8$华为
 Bestv-10,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225963/1.m3u8$华为
 
-🇨🇳云南线路②,#genre#
+🇨🇳云南②,#genre#
 CCTV1 3.5M1080,http://ztevod.yn.chinamobile.com:6060/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?m3u8_level=2
 CCTV1 7M1080,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8?m3u8_level=2
 CCTV2 3.5M1080,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8?m3u8_level=2
