@@ -1,4 +1,4 @@
-🇨🇳云南①,#genre#
+云南线路①,#genre#
 CCTV-1,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225835/1.m3u8$华为
 CCTV-1,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225965/1.m3u8$华为
 CCTV-2,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225833/1.m3u8$华为
@@ -283,7 +283,7 @@ Bestv-8,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225959/1.m3u8$华�
 Bestv-9,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225961/1.m3u8$华为
 Bestv-10,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225963/1.m3u8$华为
 
-🇨🇳云南②,#genre#
+云南线路②,#genre#
 CCTV1HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?m3u8_level=2
 CCTV2HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8?m3u8_level=2
 CCTV3HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/CCTV-3/CCTV-3.m3u8?m3u8_level=2
@@ -558,7 +558,7 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 武定,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_WUDING/G_WUDING.m3u8?m3u8_level=2
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://43.141.130.33/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8#P2p://generationnexxxt.com:19806/65fa5e2600039eda2a43168726d80618
 
-🌟港澳台频道🌟,#genre#
+✈️港台线路,#genre#
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰咨询,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -612,7 +612,7 @@ TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 
-🌟电视剧🌟,#genre#
+✈️电视剧,#genre#
 射雕英雄传,https://live.metshop.top/yy/1354210357
 神雕侠侣,https://live.metshop.top/yy/1351762426
 倚天屠龙记,https://live.metshop.top/yy/1449856066
