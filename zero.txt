@@ -295,8 +295,13 @@ CCTV7HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.
 CCTV8HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-8/G_CCTV-8.m3u8?m3u8_level=2
 CCTV9HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8?m3u8_level=2
 CCTV10HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8?m3u8_level=2
+CCTV11HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/CCTV-11/CCTV-11.m3u8?m3u8_level=2
 CCTV12HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8?m3u8_level=2
+CCTV13HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/CCTV-13/CCTV-13.m3u8?m3u8_level=2
 CCTV14HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8?m3u8_level=2
+CCTV15HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-15/G_CCTV-15.m3u8?m3u8_level=2
+CCTV16HD,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226315/1.m3u8$华为
+CCTV16-4K,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226317/1.m3u8$华为
 CCTV17HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8?m3u8_level=2
 CGTN纪录,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8?m3u8_level=2
 中国教育1HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8?m3u8_level=2
