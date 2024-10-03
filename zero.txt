@@ -618,39 +618,41 @@ BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 
 ✈️电视剧,#genre#
-射雕英雄传,https://live.metshop.top/yy/1354210357
-神雕侠侣,https://live.metshop.top/yy/1351762426
-倚天屠龙记,https://live.metshop.top/yy/1449856066
-天龙八部,https://live.metshop.top/yy/1351814644
-笑傲江湖,https://live.metshop.top/yy/1354936128
-鹿鼎记,https://live.metshop.top/yy/28265277
-寻秦记,https://live.metshop.top/yy/1382749900
-封神榜,https://live.metshop.top/yy/1353426319
-新白娘子传奇,https://live.metshop.top/yy/1354490667
-新白娘子传奇-修复版,https://live.metshop.top/yy/1354930969
-钟馗传说,https://live.metshop.top/yy/1382736839
-济公,https://live.metshop.top/yy/1355265814
-宝莲灯前传,https://live.metshop.top/yy/1354931631
-红楼梦1987经典版,https://live.metshop.top/yy/1382745084
-三国演义,https://live.metshop.top/yy/1354936241
-西游记后传,https://live.metshop.top/yy/1353392400
-天龙八部（国语版）,https://live.metshop.top/yy/1382736855
-天龙八部,https://live.metshop.top/yy/1382749944
-武林外传,https://live.metshop.top/yy/1355652820
-天龙八部蓝光超清,https://live.metshop.top/yy/28996058
-少年包青天,https://live.metshop.top/yy/38498680
-宰相刘罗锅,https://live.metshop.top/yy/1353892468
-神医喜来乐,https://live.metshop.top/yy/1382714119
-雍正王朝,https://live.metshop.top/yy/23206872
-隋唐英雄传,https://live.metshop.top/yy/1352475619
-知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
-仙剑奇侠传,https://live.metshop.top/yy/1382749903
-金装四大才子,https://live.metshop.top/yy/1354926600
-公主嫁到,https://live.metshop.top/yy/1382736915
-耀舞长安,https://live.metshop.top/yy/1382741640
-宫心计,https://live.metshop.top/yy/1354933540
-上海滩,https://live.metshop.top/yy/1382745184
-大时代,https://live.metshop.top/yy/1354930891
+射雕英雄传,http://cfss.cc/cdn/yy/1354210357.flv
+神雕侠侣,http://cfss.cc/cdn/yy/1351762426.flv
+倚天屠龙记,http://cfss.cc/cdn/yy/1449856066.flv
+天龙八部,http://cfss.cc/cdn/yy/1351814644.flv
+笑傲江湖,http://cfss.cc/cdn/yy/1354936128.flv
+鹿鼎记,http://cfss.cc/cdn/yy/28265277.flv
+寻秦记,http://cfss.cc/cdn/yy/1382749900.flv
+封神榜,http://cfss.cc/cdn/yy/1353426319.flv
+新白娘子传奇,http://cfss.cc/cdn/yy/1354490667.flv
+新白娘子传奇-修复版,http://cfss.cc/cdn/yy/1354930969.flv
+钟馗传说,http://cfss.cc/cdn/yy/1382736839.flv
+济公,http://cfss.cc/cdn/yy/1355265814.flv
+宝莲灯前传,http://cfss.cc/cdn/yy/1354931631.flv
+红楼梦1987经典版,http://cfss.cc/cdn/yy/1382745084.flv
+三国演义,http://cfss.cc/cdn/yy/1354936241.flv
+西游记后传,http://cfss.cc/cdn/yy/1353392400.flv
+天龙八部（国语版）,http://cfss.cc/cdn/yy/1382736855.flv
+天龙八部,http://cfss.cc/cdn/yy/1382749944.flv
+武林外传,http://cfss.cc/cdn/yy/1355652820.flv
+天龙八部蓝光超清,http://cfss.cc/cdn/yy/28996058.flv
+少年包青天,http://cfss.cc/cdn/yy/38498680.flv
+宰相刘罗锅,http://cfss.cc/cdn/yy/1353892468.flv
+神医喜来乐,http://cfss.cc/cdn/yy/1382714119.flv
+雍正王朝,http://cfss.cc/cdn/yy/23206872.flv
+隋唐英雄传,http://cfss.cc/cdn/yy/1352475619.flv
+知否知否应是绿肥红瘦,http://cfss.cc/cdn/yy/21881901.flv
+仙剑奇侠传,http://cfss.cc/cdn/yy/1382749903.flv
+金装四大才子,http://cfss.cc/cdn/yy/1354926600.flv
+公主嫁到,http://cfss.cc/cdn/yy/1382736915.flv
+耀舞长安,http://cfss.cc/cdn/yy/1382741640.flv
+宫心计,http://cfss.cc/cdn/yy/1354933540.flv
+上海滩,http://cfss.cc/cdn/yy/1382745184.flv
+大时代,http://cfss.cc/cdn/yy/1354930891.flv
+
+
 🇨🇳海南线路,#genre#
 4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8
