@@ -331,9 +331,9 @@ CGTN纪录,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CGTVJL-HD/G_CGTVJL-
 云南影视HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8?m3u8_level=2
 云南公共HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8?m3u8_level=2
 云南少儿HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8?m3u8_level=2
+楚雄新闻,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8?m3u8_level=2
 楚雄文旅,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8?m3u8_level=2
 楚雄市台,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8?m3u8_level=2
-楚雄新闻,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8?m3u8_level=2
 禄丰电视台,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_LUFENG/G_LUFENG.m3u8?m3u8_level=2
 永仁,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YONGREN/G_YONGREN.m3u8?m3u8_level=2
 南华,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_NANHUA/G_NANHUA.m3u8?m3u8_level=2
@@ -538,9 +538,9 @@ CCTV中视购物,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_ZHONGSHIGOU/G
 
 
 🇨🇳楚雄频道,#genre#
+楚雄新闻,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8?m3u8_level=2
 楚雄文旅,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8?m3u8_level=2
 楚雄市台,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8?m3u8_level=2
-楚雄新闻,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8?m3u8_level=2
 禄丰电视台,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_LUFENG/G_LUFENG.m3u8?m3u8_level=2
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
