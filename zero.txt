@@ -570,30 +570,30 @@ CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc7
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 
-PopC电影台,https://no_cdn.aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-TVB Plus,https://no_cdn.aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,https://no_cdn.aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,https://no_cdn.aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-三立綜合台,https://no_cdn.aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-三立財經新聞,https://no_cdn.aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-中天亞洲台,https://no_cdn.aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,https://no_cdn.aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,https://no_cdn.aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-寰宇新聞台,https://no_cdn.aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-无线新闻台(北美),https://no_cdn.aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-明珠剧集台(北美),https://no_cdn.aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,https://no_cdn.aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-無線新聞台,https://no_cdn.aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-翡翠剧集台(北美),https://no_cdn.aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,https://no_cdn.aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台(泰国),https://no_cdn.aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-翡翠综合台(北美),https://no_cdn.aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,https://no_cdn.aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,https://no_cdn.aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,https://no_cdn.aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,https://no_cdn.aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,https://no_cdn.aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-龍華經典台,https://no_cdn.aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+PopC电影台,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 
 永仁,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YONGREN/G_YONGREN.m3u8?m3u8_level=2
 南华,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_NANHUA/G_NANHUA.m3u8?m3u8_level=2
