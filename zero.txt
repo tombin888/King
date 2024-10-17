@@ -31,11 +31,6 @@ CGTN-法语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226520/index.
 CGTN-俄语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226543/index.m3u8$4.0M_576
 CGTN-西班牙语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8$4.0M_576
 CGTN-阿拉伯语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8$4.0M_576
-
-
-
-
-
 云南卫视,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225821/1.m3u8$华为
 云南卫视,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225989/1.m3u8$华为
 云南卫视,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226324/1.m3u8$华为
