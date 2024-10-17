@@ -589,16 +589,7 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 
 PopC电影台,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
-公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
-东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
-民视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
-TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068$LR•IPV4『线路3』
-TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072$LR•IPV4『线路7』
-
-
+myTV SUPER 18台,https://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -621,7 +612,7 @@ TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-龙华经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龙华经典台,https://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 剧集频道,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
 剧场2,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 英文剧场1,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225550/main.m3u8
