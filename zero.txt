@@ -758,6 +758,7 @@ iHOT 爱体育「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/200000
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
 民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+龙华电影,http://23.224.49.18:8866/haiou.php?id=litv-longturn03
 龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
 龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
 龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
