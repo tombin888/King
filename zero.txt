@@ -788,7 +788,7 @@ iHOT 爱体育「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/200000
 🎞️与凤行,http://cfss.cc/cdn/hy/26355866.m3u8
 🎞️我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 
-🍑轮播频道,#genre#
+🍑港台秒播,#genre#
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
