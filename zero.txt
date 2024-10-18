@@ -31,19 +31,19 @@ CGTN-法语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226520/index.
 CGTN-俄语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226543/index.m3u8$4.0M_576
 CGTN-西班牙语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8$4.0M_576
 CGTN-阿拉伯语,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8$4.0M_576
-CCTV-风云剧场,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226401/1.m3u8$华为
-CCTV-央视台球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226380/1.m3u8$华为
-CCTV-高尔夫网球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226382/1.m3u8$华为
-CCTV-风云足球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226405/1.m3u8$华为
-CCTV-世界地理,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226403/1.m3u8$华为
-CCTV-电视指南,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226384/1.m3u8$华为
-CCTV-兵器科技,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226386/1.m3u8$华为
-CCTV-怀旧剧场,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226388/1.m3u8$华为
-CCTV-女性时尚,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226409/1.m3u8$华为
 CCTV-第一剧场,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226411/1.m3u8$华为
+CCTV-风云剧场,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226401/1.m3u8$华为
+CCTV-怀旧剧场,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226388/1.m3u8$华为
 CCTV-风云音乐,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226413/1.m3u8$华为
+CCTV-兵器科技,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226386/1.m3u8$华为
+CCTV-女性时尚,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226409/1.m3u8$华为
 CCTV-文化精品,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226415/1.m3u8$华为
+CCTV-央视台球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226380/1.m3u8$华为
+CCTV-风云足球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226405/1.m3u8$华为
+CCTV-高尔夫网球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226382/1.m3u8$华为
+CCTV-世界地理,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226403/1.m3u8$华为
 CCTV-卫生健康,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226417/1.m3u8$华为
+CCTV-电视指南,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226384/1.m3u8$华为
 CCTV-发现之旅,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226419/1.m3u8$华为
 CCTV-中学生,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226366/1.m3u8$华为
 云南卫视,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225821/1.m3u8$华为
@@ -710,19 +710,19 @@ SiTV 乐游「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/200000000
 NewTV 魅力潇湘「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041
 随机体育赛事「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000060
 NewTV 哒啵电竞「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066
-你叫啥都行 𝟙「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000002/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000002
-你叫啥都行 𝟚「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000003/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000003
-你叫啥都行 𝟛「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000004
-你叫啥都行 𝟜「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000005
-你叫啥都行 𝟝「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006
-你叫啥都行 𝟞「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000007
+电影 𝟙「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000002/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000002
+电影 𝟚「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000003/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000003
+电影 𝟛「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000004
+电影 𝟜「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000005
+电影 𝟝「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006
+电影 𝟞「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000007
+电影 𝟟「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013
+电影 𝟠「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017
 求索生活「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008
 求索动物「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009
 求索纪录「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010
 求索科学「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011
-你叫啥都行 𝟟「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013
 JJ斗地主赛事「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015
-你叫啥都行 𝟠「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017
 iHOT 爱喜剧「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032
 iHOT 爱科幻「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033
 iHOT 爱院线「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034
@@ -858,93 +858,7 @@ GinX_TV,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 半岛新闻,http://litv.zapi.us.kg/?id=litv-ftv10
 好消息1,http://litv.zapi.us.kg/?id=litv-ftv16
 好消息2,http://litv.zapi.us.kg/?id=litv-ftv17
-凤凰咨讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
-有线18,http://220.249.51.134:10006/youx18-盗源者死全家/易發TV/hls.m3u8
 
-🍑央视数字,#genre#
-CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=ld46pu
-CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=ld46pu
-CCTV3,https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=ld46pu
-CCTV4,https://vip.taoiptv.cn/source/itv.php?id=CCTV450FPS.m3u8&sign=ld46pu
-CCTV5,https://vip.taoiptv.cn/source/itv.php?id=CCTV5HEVC.m3u8&sign=ld46pu
-CCTV5+,https://vip.taoiptv.cn/source/itv.php?id=CCTV5pHEVC.m3u8&sign=ld46pu
-CCTV6,https://vip.taoiptv.cn/source/itv.php?id=CCTV650FPS.m3u8&sign=ld46pu
-CCTV7,https://vip.taoiptv.cn/source/itv.php?id=CCTV750FPS.m3u8&sign=ld46pu
-CCTV8,https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=ld46pu
-CCTV9,https://vip.taoiptv.cn/source/itv.php?id=CCTV950FPS.m3u8&sign=ld46pu
-CCTV10,https://vip.taoiptv.cn/source/itv.php?id=CCTV1050FPS.m3u8&sign=ld46pu
-CCTV11,https://vip.taoiptv.cn/source/itv.php?id=CCTV1150FPS.m3u8&sign=ld46pu
-CCTV12,https://vip.taoiptv.cn/source/itv.php?id=CCTV1250FPS.m3u8&sign=ld46pu
-CCTV13,https://vip.taoiptv.cn/source/itv.php?id=CCTV1350FPS.m3u8&sign=ld46pu
-CCTV14,https://vip.taoiptv.cn/source/itv.php?id=CCTV1450FPS.m3u8&sign=ld46pu
-CCTV15,https://vip.taoiptv.cn/source/itv.php?id=CCTV15HEVC.m3u8&sign=ld46pu
-CCTV16,https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=ld46pu
-CCTV17,https://vip.taoiptv.cn/source/itv.php?id=CCTV17HEVC.m3u8&sign=ld46pu
-CCTV风云剧场,https://vip.taoiptv.cn/source/gzyx.php?id=28b3dfac03626525db867cfe5efa6c08.m3u8&sign=ld46pu
-CCTV风云剧场,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNJC-CQ.m3u8&sign=ld46pu
-CCTV风云剧场,https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunjuchang.m3u8&sign=ld46pu
-CCTV兵器科技,https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGQIKJ-CQ.m3u8&sign=ld46pu
-CCTV兵器科技,https://vip.taoiptv.cn/source/ysp.php?id=cctv-bingqikeji.m3u8&sign=ld46pu
-CCTV兵器科技,https://vip.taoiptv.cn/source/gzyx.php?id=a0e5ccb15677fd5ecb6bfe15eeae94aa.m3u8&sign=ld46pu
-CCTV第一剧场,https://vip.taoiptv.cn/source/gzyx.php?id=155774022270441e808f7fe34a461113.m3u8&sign=ld46pu
-CCTV第一剧场,https://vip.taoiptv.cn/source/ysp.php?id=cctv-diyijuchang.m3u8&sign=ld46pu
-CCTV央视台球,https://vip.taoiptv.cn/source/ysp.php?id=cctv-yangshitaiqiu.m3u8&sign=ld46pu
-CCTV央视台球,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIQIU-CQ.m3u8&sign=ld46pu
-CCTV央视台球,https://vip.taoiptv.cn/source/gzyx.php?id=db5ba3a40c2d5867978cc2db30f662a9.m3u8&sign=ld46pu
-CCTV风云足球,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGSHANGZQ-CQ.m3u8&sign=ld46pu
-CCTV风云足球,https://vip.taoiptv.cn/source/gzyx.php?id=9a4447cf2f6ad5e48a273929e3e12d79.m3u8&sign=ld46pu
-CCTV风云足球,https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunzuqiu.m3u8&sign=ld46pu
-CCTV高尔夫网球,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-GOLF-CQ.m3u8&sign=ld46pu
-CCTV高尔夫网球,https://vip.taoiptv.cn/source/gzyx.php?id=739c8947f3ae1fff32001ea966c2fb0d.m3u8&sign=ld46pu
-CCTV高尔夫网球,https://vip.taoiptv.cn/source/ysp.php?id=cctv-gaoerfuwangqiu.m3u8&sign=ld46pu
-CCTV世界地理,https://vip.taoiptv.cn/source/ysp.php?id=cctv-shijiedili.m3u8&sign=ld46pu
-CCTV世界地理,https://vip.taoiptv.cn/source/gzyx.php?id=6e407aeb2256f118cbc7500efb69ea37.m3u8&sign=ld46pu
-CCTV世界地理,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHIJIEDL-CQ.m3u8&sign=ld46pu
-CCTV风云音乐,https://vip.taoiptv.cn/source/jsyd.php?id=G_FENGYUNYY-CQ.m3u8&sign=ld46pu
-CCTV风云音乐,https://vip.taoiptv.cn/source/ysp.php?id=cctv-fengyunyinyue.m3u8&sign=ld46pu
-CCTV风云音乐,https://vip.taoiptv.cn/source/gzyx.php?id=55aa4e6799e5cf2e016d25ea298df515.m3u8&sign=ld46pu
-CCTV女性时尚,https://vip.taoiptv.cn/source/jsyd.php?id=G_NVXINGSS-CQ.m3u8&sign=ld46pu
-CCTV女性时尚,https://vip.taoiptv.cn/source/ysp.php?id=cctv-nvxingshishang.m3u8&sign=ld46pu
-CCTV怀旧剧场,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUAIJIUJC-CQ.m3u8&sign=ld46pu
-CCTV怀旧剧场,https://vip.taoiptv.cn/source/ysp.php?id=cctv-huaijiujuchang.m3u8&sign=ld46pu
-CCTV怀旧剧场,https://vip.taoiptv.cn/source/gzyx.php?id=7a2b1c83b212fa4e2a68ce0c1c25c9f0.m3u8&sign=ld46pu
-CCTV文化精品,https://vip.taoiptv.cn/source/gzyx.php?id=df2c3d5ea40de75807e926c8764da0d0.m3u8&sign=ld46pu
-CCTV文化精品,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-WENHUA-CQ.m3u8&sign=ld46pu
-CCTV文化精品,https://vip.taoiptv.cn/source/ysp.php?id=cctv-wenhuajingpin.m3u8&sign=ld46pu
-CCTV卫生健康,https://vip.taoiptv.cn/source/gzyx.php?id=d123a2c9a596930753a983f982e3e6fd.m3u8&sign=ld46pu
-CCTV卫生健康,https://vip.taoiptv.cn/source/ysp.php?id=cctv-weishengjiankang.m3u8&sign=ld46pu
-CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u8&sign=ld46pu
-CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&sign=ld46pu
-
-
-CCTV风云足球,http://www.lizhinas.top:8688/rtp/239.252.219.96:5140$江西cmc3+
-CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-CCTV央视台球,http://www.lizhinas.top:8688/rtp/239.252.219.80:5140$江西cmc3+
-CCTV高尔夫网球,http://www.lizhinas.top:8688/rtp/239.252.219.95:5140$江西cmc3+
-CCTV风云音乐,http://www.lizhinas.top:8688/rtp/239.252.219.87:5140$江西cmc3+
-CCTV第一剧场,http://www.lizhinas.top:8688/rtp/239.252.219.86:5140$江西cmc3+
-CCTV风云剧场,http://www.lizhinas.top:8688/rtp/239.252.219.89:5140$江西cmc3+
-CCTV怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
-CCTV女性时尚,http://www.lizhinas.top:8688/rtp/239.252.219.94:5140$江西cmc3+
-CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-CCTV世界地理,http://www.lizhinas.top:8688/rtp/239.252.219.93:5140$江西cmc3+
-CCTV兵器科技,http://www.lizhinas.top:8688/rtp/239.252.219.98:5140$江西cmc3+
-CCTV文化精品,http://www.lizhinas.top:8688/rtp/239.252.219.81:5140$江西cmc3+
-CCTV电视指南,http://www.lizhinas.top:8688/rtp/239.252.219.97:5140$江西cmc3+
-CCTV兵器科技,http://mryx.fun:1025/udp/239.11.0.57:1025
-CCTV风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
-CCTV央视台球,http://mryx.fun:1025/udp/239.11.0.60:1025
-CCTV女性时尚,http://mryx.fun:1025/udp/239.11.0.62:1025
-CCTV世界地理,http://mryx.fun:1025/udp/239.11.0.63:1025
-CCTV怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
-CCTV风云剧场,http://mryx.fun:1025/udp/239.11.0.65:1025
-CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
-CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
-CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
-CCTV卫生健康,https://vip.taoiptv.cn/source/gzyx.php?id=d123a2c9a596930753a983f982e3e6fd.m3u8&sign=ld46pu
-CCTV卫生健康,https://vip.taoiptv.cn/source/ysp.php?id=cctv-weishengjiankang.m3u8&sign=ld46pu
 
 ✈️港台线路,#genre#
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
