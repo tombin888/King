@@ -249,7 +249,7 @@ HQTV,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226055/1.m3u8$华为
 生活时尚,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226391/1.m3u8$华为
 茶频道,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226294/1.m3u8$华为
 金鹰纪实,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225925/1.m3u8$华为
-重庆汽摩,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226421/1.m3u8$华为
+汽摩频道,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226421/1.m3u8$华为
 环球奇观,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226392/1.m3u8$华为
 国学频道,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226394/1.m3u8$华为
 快乐垂钓,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226297/1.m3u8$华为
