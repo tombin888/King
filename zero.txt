@@ -347,7 +347,7 @@ CGTN纪录,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CGTVJL-HD/G_CGTVJL-
 云南娱乐HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8?m3u8_level=2
 云南生活资讯HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8?m3u8_level=2
 云南影视HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8?m3u8_level=2
-云南公共HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8?m3u8_level=2
+云南康旅HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8?m3u8_level=2
 云南少儿HD,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8?m3u8_level=2
 楚雄新闻,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGXW/G_CHUXIONGXW.m3u8?m3u8_level=2
 楚雄文旅,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8?m3u8_level=2
@@ -548,7 +548,7 @@ CGTN纪录,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CGTVJL/G_CGTVJL.m3u
 云南都市,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8?m3u8_level=2
 云南娱乐,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8?m3u8_level=2
 云南影视,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8?m3u8_level=2
-云南公共,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8?m3u8_level=2
+云南康旅,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8?m3u8_level=2
 云南少儿,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8?m3u8_level=2
 云南国际,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8?m3u8_level=2
 云南生活资讯,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8?m3u8_level=2
