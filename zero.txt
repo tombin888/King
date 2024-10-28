@@ -1279,8 +1279,8 @@ CCTV1-4K,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 CCTV3-4K,http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5-4K,http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV8-极清,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
-晴彩竞技4K,http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
-晴彩篮球4K,http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
+睛彩竞技4K,http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
+睛彩篮球4K,http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 音乐台4K,http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 未知电影台4K,http://ott.mobaibox.com/PLTV/4/224/3221228615/index.m3u8
 CCTV4K,http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
