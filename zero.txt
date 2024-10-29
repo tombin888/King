@@ -583,10 +583,13 @@ CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=8662
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+HOY 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVB星河台,http://aktv.top/AKTV/live/aktv/tvb/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
@@ -613,9 +616,10 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龙华电影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 TVB亚洲剧台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+
 
 剧集频道,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
 剧场2,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
