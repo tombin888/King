@@ -561,6 +561,18 @@ CGTN纪录,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CGTVJL/G_CGTVJL.m3u
 楚雄文旅,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGGG/G_CHUXIONGGG.m3u8?m3u8_level=2
 楚雄市台,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CHUXIONGSHI/G_CHUXIONGSHI.m3u8?m3u8_level=2
 禄丰电视台,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_LUFENG/G_LUFENG.m3u8?m3u8_level=2
+
+淘4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+BRTV体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EmLWY-QzDYXsJkNAKn1-dovWeB79V2zVBN-rY4mYJto4m9yeQDOdwgEuNxJAYqysGGQ9O-6YRGQ7HwCypA-Dp8oUoczUh-bqb1BhGngFvRaI%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7GzX1_9rBSUW5Uspa99SB_d%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+
+
 CHC动作电影,http://125.46.242.111:9999/rtp/225.1.4.208:1261
 CHC动作电影,http://118.78.220.127:8686/rtp/226.0.2.94:8012
 CHC动作电影,http://219.156.29.182:9999/rtp/225.1.4.208:1261
@@ -1261,7 +1273,7 @@ CETV-4,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chin
 哈尔滨新闻综合,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226434/index.m3u8$7.8M_1080
 哈尔滨新闻综合,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8$2.6M_576
 哈尔滨生活,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226526/index.m3u8$2.6M_576
-哈尔滨影视,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8$2.5M_576
+哈尔滨影视,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/TVOD/88888888/224/3221226552/index.m3u8$2.5M_576
 齐齐哈尔新闻综合,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226437/index.m3u8$7.9M_1080
 齐齐哈尔新闻综合,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226413/index.m3u8$2.6M_576
 齐齐哈尔经济法治,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226555/index.m3u8$7.8M_1080
