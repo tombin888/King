@@ -612,7 +612,6 @@ CHC影迷电影,http://118.78.220.127:8686/rtp/226.0.2.93:8004
 姚安,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YAOAN/G_YAOAN.m3u8?m3u8_level=2
 元谋,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_YUANMOU/G_YUANMOU.m3u8?m3u8_level=2
 武定,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_WUDING/G_WUDING.m3u8?m3u8_level=2
-重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
@@ -632,7 +631,6 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS-新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
@@ -646,7 +644,6 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 翡翠剧集(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 翡翠综合(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 TVB亚洲剧,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
