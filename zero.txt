@@ -730,28 +730,6 @@ myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 电视剧①,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 电视剧①,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/PLTV/88888888/224/3221225550/main.m3u8
 电视剧②,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/PLTV/88888888/224/3221225521/main.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
-民视,rtmp://f13h.mine.nu/sat/tv051
-纬来体育,http://mtw.so/5yqGDH
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-49号,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 🎫临时测试,#genre#
 北京卫视,http://cqshushu.us.kg:2086/bjtv.php?id=bjws
 BRTV文艺,http://cqshushu.us.kg:2086/bjtv.php?id=bjwy
