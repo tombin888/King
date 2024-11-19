@@ -2182,7 +2182,7 @@ CCTV17,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000056836/inde
 热播精选,http://[2409:8087:5e00:24::1e]:6060/000000001000/7681593242002292003/index.m3u8?channel-id=bestzb&Contentid=7681593242002292003&livemode=1&stbId=3
 纯享4K,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000011651/index.m3u8?channel-id=bestzb&Contentid=1000000004000011651&livemode=1&stbId=3
 
-🍑少儿频道IPV6,#genre#
+🍑少儿频道V6,#genre#
 卡酷少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000265008/index.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=3
 金鹰卡通,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
@@ -6859,7 +6859,7 @@ JJ斗地主,http://159.75.85.63:35455/huya/14079954
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024年,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240210/1d7c7f27f96f4155b2037e8c4db41c7e_H264_3000K_MP4/20240210040209928.m3u8
-🍷1080p歌曲,#genre#
+🍷高清MTV,#genre#
 151号[1920*1080],http://em.21dtv.com/songs/60110150.mkv
 231号[1920*1080],http://em.21dtv.com/songs/60110230.mkv
 494号[1920*1080],http://em.21dtv.com/songs/60110493.mkv
