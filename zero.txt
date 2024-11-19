@@ -639,9 +639,12 @@ CGTN纪录,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_CGTVJL/G_CGTVJL.m3u
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 BRTV体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EmLWY-QzDYXsJkNAKn1-dovWeB79V2zVBN-rY4mYJto4m9yeQDOdwgEuNxJAYqysGGQ9O-6YRGQ7HwCypA-Dp8oUoczUh-bqb1BhGngFvRaI%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7GzX1_9rBSUW5Uspa99SB_d%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
-CHC动作电影,http://php.jdshipin.com/TVOD/sdyd.php?id=2028
-CHC动作电影,http://php.jdshipin.com/TVOD/sdyd.php?id=2029
 CHC动作电影,http://php.jdshipin.com/TVOD/sdyd.php?id=2030
+CHC家庭影院,http://php.jdshipin.com/TVOD/sdyd.php?id=2028
+CHC影迷电影,http://php.jdshipin.com/TVOD/sdyd.php?id=2029
+CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://118.79.7.128:6000/rtp/226.0.2.94:8012
 CHC家庭影院,http://118.79.7.128:6000/rtp/226.0.2.240:9820
 CHC影迷电影,http://118.79.7.128:6000/rtp/226.0.2.93:8004
