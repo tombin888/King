@@ -190,7 +190,7 @@ CETV4,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226335/1.m3u8$华为
 金鹰卡通,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 嘉佳卡通,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
-黑莓动画,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
+黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 动漫秀场,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 卡酷少儿,http://ztevod.yn.chinamobile.com:6060/gitv_live/G_KAKU/G_KAKU.m3u8?m3u8_level=2
 嘉佳卡通,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225889/1.m3u8$华为
@@ -215,7 +215,7 @@ CETV4,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226335/1.m3u8$华为
 昆明教育电视台,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225985/1.m3u8$华为
 寻甸电视台,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226319/1.m3u8$华为
 嵩明电视台,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226329/1.m3u8$华为
-
+黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 4K修复[3840x2160],http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226295/1.m3u8$华为
 4K修复[3840x2160],http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226306/1.m3u8$华为
 4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
@@ -274,7 +274,6 @@ CETV4,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226335/1.m3u8$华为
 环球旅游,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226341/1.m3u8$华为
 中华特产,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226345/1.m3u8$华为
 热播精选,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?
-国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -2708,7 +2707,7 @@ CCTV17,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000056836/inde
 金鹰卡通,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 嘉佳卡通,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
-黑莓动画,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
+黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 动漫秀场,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 🍑山东IPV6,#genre#
 山东卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8?IASHttpSessionId=
