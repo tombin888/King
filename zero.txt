@@ -6724,8 +6724,7 @@ IPTV5-7.5M1080,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000600000
 延边卫视,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
-台湾]新闻频道,#genre#
-
+🍇台湾新闻,#genre#
 TVBS HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
@@ -6749,8 +6748,7 @@ TVBS新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
 华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv156
-
-[台湾]影视频道,#genre#
+🍇台湾影视,#genre#
 影迷數位電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv011
 AMC电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 CATCHPLAY电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv076
@@ -6765,8 +6763,7 @@ CATCHPLAY电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 靖天戏剧台,http://litv.zapi.us.kg/?id=4gtv-4gtv058
 公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
 龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
-
-[台湾]体育频道,#genre#
+🍇台湾体育,#genre#
 智林体育台,http://litv.zapi.us.kg/?id=4gtv-4gtv101
 时尚运动X,http://litv.zapi.us.kg/?id=4gtv-4gtv014
 靖天育乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv062
@@ -6779,8 +6776,7 @@ CATCHPLAY电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 博斯无限,http://litv.zapi.us.kg/?id=litv-longturn10
 博斯无限2,http://litv.zapi.us.kg/?id=litv-longturn13
 TRACE SPORTS STARS,http://litv.zapi.us.kg/?id=4gtv-4gtv077
-
-[台湾]综艺频道,#genre#
+🍇台湾综艺,#genre#
 視納華仁紀實頻道,http://litv.zapi.us.kg/?id=4gtv-4gtv013
 中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
 八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
@@ -6807,9 +6803,7 @@ TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
 古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
 猪哥亮歌厅秀,http://litv.zapi.us.kg/?id=4gtv-4gtv006
-
-
-[台湾]其他频道,#genre#
+🍇台湾其他,#genre#
 Smart知识台,http://litv.zapi.us.kg/?id=litv-longturn19
 达文西频道,http://litv.zapi.us.kg/?id=4gtv-4gtv018
 阿里郎,http://litv.zapi.us.kg/?id=4gtv-4gtv079
