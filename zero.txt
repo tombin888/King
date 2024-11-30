@@ -180,7 +180,7 @@ CETV4,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226335/1.m3u8$华为
 电视剧6,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226354/1.m3u8$华为
 电视剧7,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226356/1.m3u8$华为
 电视剧8,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226363/1.m3u8$华为
-电影台1,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226309/1.m3u8$华为
+电影频道,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226309/1.m3u8$华为
 少儿频道,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226311/1.m3u8$华为
 睛彩篮球,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8$华为
 睛彩竞技,http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8$华为
